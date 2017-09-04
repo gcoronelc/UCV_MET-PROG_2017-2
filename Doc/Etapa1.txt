@@ -1,0 +1,33 @@
+- Patron Fachada
+
+
+- Patrón Factory
+
+
+- Principio DRY
+
+
+
+- Lean UX
+
+  
+- Principios SOLID
+
+
+- Clojure
+
+
+- SCRUM
+
+
+- Scala
+
+
+- Pruebas de Software
+
+
+- RUP
+
+
+- Lenguaje SQL
+
