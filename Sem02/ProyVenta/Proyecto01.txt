@@ -1,0 +1,28 @@
+proyecto 1
+=====================
+
+
+Calcular el importe de una venta.
+
+
+
+INPUT
+===============
+- precio
+- cantidad
+
+OUTPUT
+===============
+- importe
+- impuesto
+- total
+
+SERVICIOS
+==============
+- calcTotal
+- calcImporte
+- calcImpuesto
+
+
+
+

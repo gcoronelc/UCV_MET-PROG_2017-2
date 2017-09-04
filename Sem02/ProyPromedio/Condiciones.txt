@@ -1,0 +1,28 @@
+Condiciones para el promedio:
+
+- Te tienen 4 practicas, se 
+  promedian las 3 mejores.
+- Se tiene un examen parcial
+- Se tiene un examen final.
+
+Los pesos
+
+- PP: 0.50
+- EP: 0.20
+- EF: 0.30
+
+Condición
+
+- El estudiante aprueba si el PF
+  es mayor o igual a 14.
+
+El reporte de incluir:
+
+- Practica eliminada
+- Promedio de practicas
+- Promedio final
+- Condicion
+
+
+
+
