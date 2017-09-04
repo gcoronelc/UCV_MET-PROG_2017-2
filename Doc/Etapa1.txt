@@ -1,33 +1,46 @@
 - Patron Fachada
+    
 
 
 - Patrón Factory
+  VALENCIA  
 
 
 - Principio DRY
-
+  PALIAN, 
 
 
 - Lean UX
+  
+
 
   
 - Principios SOLID
+  
 
 
 - Clojure
+  CONDOR, 
+
 
 
 - SCRUM
 
 
 - Scala
+  SANTANA, BONILLA, ESTRADA, SAMAN, SAAVEDRA, EGUAVIL
+
 
 
 - Pruebas de Software
+  MENDEZ, ROJAS, VILLARROEL,  
 
 
 - RUP
+  PACULIA, PUERTAS, VARGAS, MOLLEAPAZA, CISNEROS, MEDINA
 
 
 - Lenguaje SQL
+  PILLPE, 
+
 
