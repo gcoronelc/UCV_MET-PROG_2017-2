@@ -1,4 +1,4 @@
-- Patron Fachada
+﻿- Patron Fachada
     
 
 
@@ -28,7 +28,7 @@
 
 
 - Scala
-  SANTANA, ESTRADA, SAMAN, SAAVEDRA, EGUAVIL
+  SANTANA, ESTRADA, SAMAN, SAAVEDRA, EGUAVIL, ESCOBAR
 
 
 
