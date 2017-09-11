@@ -7,7 +7,7 @@
 
 
 - Principio DRY
-  PALIAN, 
+ 
 
 
 - Lean UX
@@ -20,7 +20,7 @@
 
 
 - Clojure
-  CONDOR, 
+  CONDOR, ÑAHUI, ROMAN, PALIAN, CHAVEZ, 
 
 
 
@@ -33,7 +33,7 @@
 
 
 - Pruebas de Software
-  MENDEZ, ROJAS, VILLARROEL,  
+  MENDEZ, ROJAS, VILLARROEL, CAMAVILCA
 
 
 - RUP
