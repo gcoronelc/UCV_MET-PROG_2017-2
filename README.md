@@ -1,12 +1,10 @@
-![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/curso.png)
+# METODOLOGIAS DE PROGRAMACION
 
 ![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/portada.png)
+![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/curso.png)
 
-![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/ds.png)
 
-![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/java-cs.png)
-
-# METODOLOGIAS DE PROGRAMACION
+## DATOS DEL CURSO
 
 - Lugar: UNIVERSIDAD CESAR VALLEJO
 - Horario: LUNES DE 13:00 a 17:20 Horas
@@ -15,13 +13,13 @@
 - Laboratorio: 101-A (15:40 a 17:20 Horas)
 
 
-# DOCENTE
+## DOCENTE
 
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
 
 
-# RECURSOS RECOMENDADOS
+## RECURSOS RECOMENDADOS
 
 - Curso de Git: https://www.udemy.com/git-started-with-github
 - Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
@@ -40,7 +38,7 @@
 - Código Fuente JAVA-CS: https://goo.gl/eCQstU
 
 
-# JAVA ORIENTADO A OBJETOS
+## JAVA ORIENTADO A OBJETOS
 
 - Recursos: https://github.com/gcoronelc/recursos
 - Imagenes: https://github.com/gcoronelc/imagenes
@@ -57,7 +55,7 @@
 - Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
 
 
-# AUTO-EVALUACIÓN
+## AUTO-EVALUACIÓN
 
 - Enlace 1: http://cibertest.com/test-examen/11/java
 - Enlace 2: http://www.digitallearning.es/tests/java-poo.html
@@ -82,3 +80,11 @@
 - Enlace 21: http://www.techbeamers.com/category/java-quiz/
 - Enlace 22: https://modernpathshala.com/
 - Enlace 23: http://www.whizlabs.com
+
+
+## OTROS RECURSOS
+
+
+![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/ds.png)
+
+![METODOLOGIAS DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCV_MET-PROG_2017-2/master/img/java-cs.png)
