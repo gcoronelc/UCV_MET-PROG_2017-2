@@ -1,32 +1,85 @@
-- GRUPO 01: Lenguaje SQL
-  PAREDES ALMONACID, DAMIAN SUAREZ, BONILLA YPANAQUE, CISNEROS HARO, YUPANQUI LOZANO
-
-- GRUPO 02: Scala
-  SANTANA, ESTRADA, SAMAN, SAAVEDRA, EGUAVIL, ESCOBAR
-
-- GRUPO 03: Pruebas de Software
-  MENDEZ, ROJAS, VILLARROEL, CAMAVILCA
-
-- GRUPO 04: RUP
-  PACULIA, PUERTAS, VARGAS, MOLLEAPAZA, CISNEROS, MEDINA
-
-- GRUPO 05: Clojure
-  CONDOR, ÑAHUI, ROMAN, PALIAN, CHAVEZ, 
-
-- GRUPO 06: Patrón Factory
-  VALENCIA, ZACARIAS, PARIONA PEREZ, SANCHEZ ALIAGA, ATENCIO ARIAS, ZURITA TADEO  
-
-- GRUPO 07: Principio DRY
-  BAÑON, ESPINO, GUERRA, OSCCO
+GRUPO 01:
+================================================
+- PAREDES ALMONACID 
+- DAMIAN SUAREZ
+- BONILLA YPANAQUE
+- CISNEROS HARO
+- YUPANQUI LOZANO
+Etapa 1: Lenguaje SQL
+Etapa 2: Colecciones con JCF - Java Collection Framework
 
 
+GRUPO 02: Scala
+==================================================
+- SANTANA
+- ESTRADA
+- SAMAN
+- SAAVEDRA
+- EGUAVIL
+- ESCOBAR
+Etapa 1: Scala
+Etapa 2: Código Limpio
+
+GRUPO 03: 
+==================================================
+- MENDEZ
+- ROJAS
+- VILLARROEL
+- CAMAVILCA
+Etapa 1: Pruebas de Software
+Etapa 2: Patrón Factory
+
+
+GRUPO 04: RUP
+==================================================
+- PACULIA
+- PUERTAS
+- VARGAS
+- MOLLEAPAZA
+- CISNEROS
+- MEDINA
+Etapa 1: RUP
+Etapa 2: Principios SOLID
 
 
 
-- Patron Fachada
-- Lean UX
-- Principios SOLID
-- SCRUM
+GRUPO 05: 
+==================================================
+- CONDOR
+- ÑAHUI
+- ROMAN
+- PALIAN
+- CHAVEZ
+Etapa 1: Clojure
+Etapa 2: Programación Funcional y Expresiones Lambda
+
+
+GRUPO 06: 
+==================================================
+- VALENCIA
+- ZACARIAS
+- PARIONA PEREZ
+- SANCHEZ ALIAGA
+- ATENCIO ARIAS
+- ZURITA TADEO  
+Etapa 1: Patrón Factory
+Etapa 2: Lean UX
+
+
+GRUPO 07: 
+==================================================
+- BAÑON
+- ESPINO
+- GUERRA
+- OSCCO
+Etapa 1: Principio DRY
+Etapa 2: Manejo de Datos Genericos (Generic)
+
+
+
+
+- Código Sucio
+- 
 
 
 
