@@ -2,3 +2,12 @@ Solucionar el examen parcial
 aplicando la programación
 en capas y la programación
 orientada a servicios.
+
+Requerimientos:
+
+De un número "n" calcular:
+
+- Factorial
+- Determinar si es primo o no
+- La suma de los primeros "n" números
+
