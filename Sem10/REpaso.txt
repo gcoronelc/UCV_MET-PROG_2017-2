@@ -1,0 +1,28 @@
+PROYECTO
+=========================================
+Juan es un agricultor, y necesita calcular
+su utilidad de una cosecha.
+Juan siembra maiz, tiene un terreno de 
+15 hectareas. 
+Los gastos que realiza son:
+
+- Semilla: 10 Bolsas por hectarea
+- Abono: 20 Bolsas por hectarea
+- Mano de obra: 200 Horas/Hombre por hectarea
+- Agua: 200 Soles por riego/Hectara
+- Numero de riegos: 4
+- Producción por hectarea: promedio 6 Toneladas
+
+Se quiere desarrollar un programa para calcular
+la utilidad de Juan.
+
+
+
+
+
+
+
+
+
+
+
