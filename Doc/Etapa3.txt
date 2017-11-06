@@ -1,0 +1,87 @@
+GRUPO 01:
+================================================
+- PAREDES ALMONACID 
+- DAMIAN SUAREZ
+- BONILLA YPANAQUE
+- CISNEROS HARO
+- YUPANQUI LOZANO
+Etapa 1: Lenguaje SQL
+Etapa 2: Colecciones con JCF - Java Collection Framework
+Etapa 3: Manejo de Datos Genericos con Java
+
+
+GRUPO 02: Scala
+==================================================
+- SANTANA
+- ESTRADA
+- SAMAN
+- SAAVEDRA
+- EGUAVIL
+- ESCOBAR
+Etapa 1: Scala
+Etapa 2: Código Limpio
+Etapa 3: Manejo de Errores con Java
+
+GRUPO 03: 
+==================================================
+- MENDEZ
+- ROJAS
+- VILLARROEL
+- CAMAVILCA
+Etapa 1: Pruebas de Software
+Etapa 2: Patrón Factory
+Etapa 3: Manejo de Colecciones con JCF
+
+GRUPO 04:
+==================================================
+- PACULIA
+- PUERTAS
+- VARGAS
+- MOLLEAPAZA
+- CISNEROS
+- MEDINA
+Etapa 1: RUP
+Etapa 2: Principios SOLID
+Etapa 3: Datos genericos con Java Generic
+
+
+GRUPO 05: 
+==================================================
+- CONDOR
+- ÑAHUI
+- ROMAN
+- PALIAN
+- CHAVEZ
+Etapa 1: Clojure
+Etapa 2: Programación Funcional y Expresiones Lambda
+Etapa 3: 
+
+GRUPO 06: 
+==================================================
+- VALENCIA
+- ZACARIAS
+- PARIONA PEREZ
+- SANCHEZ ALIAGA
+- ATENCIO ARIAS
+- ZURITA TADEO  
+Etapa 1: Patrón Factory
+Etapa 2: Lean UX
+Etapa 3: Programación Funcional y Expresiones Lambda
+
+GRUPO 07: 
+==================================================
+- BAÑON
+- ESPINO
+- GUERRA
+- OSCCO
+Etapa 1: Principio DRY
+Etapa 2: Manejo de Datos Genericos (Generic)
+Etapa 3: 
+
+
+
+
+
+
+
+
