@@ -13,4 +13,12 @@ public class EncuestaService {
     return Datos.encuestas;
   }
   
+  public String[] obtenerCursos(){
+      return Datos.cursos;
+  }
+  
+  public String[] obtenerTurnos(){
+      return Datos.turnos;
+  }
+  
 }

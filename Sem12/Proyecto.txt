@@ -1,0 +1,12 @@
+La UCV necesita saber la preferencia de 
+sus estudiantes para programar cursos
+de extensión para el verano.
+
+Por ejemplo, los cursos pueden ser:
+
+- Desrrollo de un sistem de ventas con Java.
+- Excel Básico
+- Analisis de Sistemas
+- Etc.
+
+
