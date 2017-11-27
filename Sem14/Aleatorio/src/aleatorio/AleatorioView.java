@@ -5,8 +5,8 @@ import javax.swing.table.DefaultTableModel;
 
 public class AleatorioView extends javax.swing.JFrame {
 
-  private String[] grupos = {"ASTO", "FERNANDEZ", "GONZALES",
-    "HUACSO", "JUAG", "MENDOZA"};
+  private String[] grupos = {"GRUPO 01", "GRUPO 02", "GRUPO 03",
+    "GRUPO 04", "GRUPO 05", "GRUPO 06", "GRUPO 07", "GRUPO 08"};
 
   private int[] orden = new int[grupos.length];
   

@@ -1,52 +1,53 @@
-GRUPO 01:
+GRUPO 01: Queda
 ================================================
 - PAREDES ALMONACID 
 - DAMIAN SUAREZ
 - BONILLA YPANAQUE
-- CISNEROS HARO
 - YUPANQUI LOZANO
+- HUAMANI VARGAS
 Etapa 1: Lenguaje SQL
 Etapa 2: Colecciones con JCF - Java Collection Framework
 Etapa 3: Manejo de Datos Genericos con Java
 
 
-GRUPO 02: 
+GRUPO 02: Queda
 ==================================================
 - SANTANA
 - ESTRADA
 - SAMAN
-- SAAVEDRA
 - EGUAVIL
 - ESCOBAR
 Etapa 1: Scala
 Etapa 2: Código Limpio
 Etapa 3: Manejo de Errores con Java
 
-GRUPO 03: 
+
+GRUPO 03: Queda
 ==================================================
 - MENDEZ
 - ROJAS
-- VILLARROEL
+- AYNACC
 - CAMAVILCA
+- GRANADOS
 Etapa 1: Pruebas de Software
 Etapa 2: Patrón Factory
 Etapa 3: Manejo de Colecciones con JCF
 
-GRUPO 04:
+
+GRUPO 04: Queda
 ==================================================
 - PACULIA
 - PUERTAS
 - VARGAS
 - MOLLEAPAZA
-- CISNEROS
 - MEDINA
 Etapa 1: RUP
 Etapa 2: Principios SOLID
 Etapa 3: Datos genericos con Java Generic
 
-GRUPO 05: 
+
+GRUPO 05: Queda
 ==================================================
-- VALENCIA
 - ZACARIAS
 - PARIONA PEREZ
 - SANCHEZ ALIAGA
@@ -57,9 +58,13 @@ Etapa 2: Lean UX
 Etapa 3: Programación Funcional y Expresiones Lambda
 
 
-GRUPO 06: 
+GRUPO 06: Queda
 ==================================================
 - ASCANOA
+- CISNEROS HARO
+- VILLARROEL
+- SAAVEDRA
+- VALENCIA
 Etapa 1: 
 Etapa 2: 
 Etapa 3: Pruebas Unitarias
@@ -86,8 +91,6 @@ GRUPO 08:
 Etapa 1: Clojure
 Etapa 2: Programación Funcional y Expresiones Lambda
 Etapa 3: Patrones Factory
-
-
 
 
 
