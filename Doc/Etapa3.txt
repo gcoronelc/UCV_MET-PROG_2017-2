@@ -10,7 +10,7 @@ Etapa 2: Colecciones con JCF - Java Collection Framework
 Etapa 3: Manejo de Datos Genericos con Java
 
 
-GRUPO 02: Scala
+GRUPO 02: 
 ==================================================
 - SANTANA
 - ESTRADA
@@ -44,19 +44,7 @@ Etapa 1: RUP
 Etapa 2: Principios SOLID
 Etapa 3: Datos genericos con Java Generic
 
-
 GRUPO 05: 
-==================================================
-- CONDOR
-- ÑAHUI
-- ROMAN
-- PALIAN
-- CHAVEZ
-Etapa 1: Clojure
-Etapa 2: Programación Funcional y Expresiones Lambda
-Etapa 3: 
-
-GRUPO 06: 
 ==================================================
 - VALENCIA
 - ZACARIAS
@@ -68,6 +56,15 @@ Etapa 1: Patrón Factory
 Etapa 2: Lean UX
 Etapa 3: Programación Funcional y Expresiones Lambda
 
+
+GRUPO 06: 
+==================================================
+- ASCANOA
+Etapa 1: 
+Etapa 2: 
+Etapa 3: Pruebas Unitarias
+
+
 GRUPO 07: 
 ==================================================
 - BAÑON
@@ -76,7 +73,22 @@ GRUPO 07:
 - OSCCO
 Etapa 1: Principio DRY
 Etapa 2: Manejo de Datos Genericos (Generic)
-Etapa 3: 
+Etapa 3: Principios Solidos
+
+
+GRUPO 08: 
+==================================================
+- CONDOR
+- ÑAHUI
+- ROMAN
+- PALIAN
+- CHAVEZ
+Etapa 1: Clojure
+Etapa 2: Programación Funcional y Expresiones Lambda
+Etapa 3: Patrones Factory
+
+
+
 
 
 
