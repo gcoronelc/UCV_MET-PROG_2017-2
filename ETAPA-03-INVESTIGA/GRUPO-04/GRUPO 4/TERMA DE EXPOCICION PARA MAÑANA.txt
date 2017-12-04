@@ -1,0 +1,17 @@
+import java.util.*;
+
+ArrayList<Empleados> listaEmpleados = new ArrayList<Empleados>();
+
+listaEmpleados.add(new Empleados("Ana",45,200));
+
+
+    /*VENTAJAS*/
+    //YA NO PONEMOS LA CANTIDAD DE DATOS QUE ACEPTARA EL ARRAY.
+    //EL ARRAYLIST ES MAS DINAMICO.
+
+
+-MUESTRA CANTIDAD DE REGISTROS
+//System.out.println(listaEmpleados.size());
+
+-PONE UNA CAPACIDAD PARA NO CONSUMIR RECURSOS
+//listaEmpleados.ensureCapacity(5);
